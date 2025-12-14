@@ -1,0 +1,5 @@
+{
+  "name": "EcoTimeline: Resource Depletion Tracker",
+  "description": "A cyberpunk-styled interactive visualization of global fossil fuel depletion (Coal, Oil, Gas) from 1990 to 2050 using predictive modeling.",
+  "requestFramePermissions": []
+}
